@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9cc1072d-3536-423f-a8b1-2345783f3daa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/demojenkins/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/demojenkins/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/atguigu/demojenkins/DemojenkinsApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584449087878" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projects/online_edu_backend_admin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -96,7 +94,7 @@
       <workItem from="1586611913875" duration="1004000" />
       <workItem from="1587063589156" duration="2684000" />
       <workItem from="1587176101585" duration="1029000" />
-      <workItem from="1587220697509" duration="3398000" />
+      <workItem from="1587220697509" duration="5540000" />
     </task>
     <task id="LOCAL-00001" summary="999">
       <created>1584447964973</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587225613210</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test005">
+      <created>1587226778485</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587226778485</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,25 +173,26 @@
     <MESSAGE value="test1" />
     <MESSAGE value="test02" />
     <MESSAGE value="test004" />
-    <option name="LAST_COMMIT_MESSAGE" value="test004" />
+    <MESSAGE value="test005" />
+    <option name="LAST_COMMIT_MESSAGE" value="test005" />
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587063836376">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="651" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1587063836376" />
-    <state x="327" y="30" key="CommitChangelistDialog2" timestamp="1587225611607">
+    <state x="327" y="30" key="CommitChangelistDialog2" timestamp="1587226776534">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="327" y="30" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1587225611607" />
+    <state x="327" y="30" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1587226776534" />
     <state x="152" y="74" key="DiffContextDialog" timestamp="1587220872568">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="152" y="74" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1587220872568" />
-    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1587177132305">
+    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1587228196901">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1587177132305" />
+    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1587228196901" />
     <state width="1557" height="146" key="GridCell.Tab.0.bottom" timestamp="1587220786338">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -203,10 +209,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="146" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587220786338" />
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1587225793383">
+    <state x="467" y="136" key="NewModule_or_Project.wizard" timestamp="1587228201738">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1587225793383" />
+    <state x="467" y="136" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1587228201738" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1587226782133">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1587226782133" />
     <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1586612301871">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

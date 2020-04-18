@@ -11,6 +11,6 @@ public class UserController {
 
     @GetMapping
     public String findAll() {
-        return "hello world, test005";
+        return "hello world, test006";
     }
 }
