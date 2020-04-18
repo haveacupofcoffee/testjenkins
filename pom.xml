@@ -60,7 +60,7 @@
                                     <type>${project.packaging}</type>
                                 </artifactItem>
                             </artifactItems>
-                            <outputDirectory>${session.executionRootDirectory}/test/</outputDirectory>
+                            <outputDirectory>${session.executionRootDirectory}/target/</outputDirectory>
                             <stripVersion>true</stripVersion>
                         </configuration>
                     </execution>
